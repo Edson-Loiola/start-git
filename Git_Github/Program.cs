@@ -8,11 +8,11 @@ namespace Git_Github
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia!");
-            Console.WriteLine("Edson Monteiro Loiola");
+            Console.WriteLine("Edson - Aprendendo Git");
 
           
 
-            //CONSULTAR PDF DA SECAO 8 NO MATERIAL DE APIO SOBRE GIT E GITHUB
+            //CONSULTAR PDF DA SECAO 8 NO MATERIAL DE APOIO SOBRE GIT E GITHUB
 
 
 
