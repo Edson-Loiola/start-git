@@ -8,6 +8,7 @@ namespace Git_Github
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia!");
+            Console.WriteLine("Edson Monteiro Loiola");
 
             //na pasta onde tem a solução do projeto
             //criar um txt chamado git.txt
